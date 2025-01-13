@@ -1,5 +1,5 @@
 ﻿from collections import deque
-
+/// NIKITA + MARK
 # Banko operacijų klasė
 class BankTransactions:
     def __init__(self):
