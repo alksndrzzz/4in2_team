@@ -1,6 +1,6 @@
 ﻿from collections import deque
 <<<<<<< HEAD
-=======
+=======negriukas
 /// NIKITA + MARK
 >>>>>>> 892ac3598de8948df8f4b44b4aecd4c66a93555c
 # Banko operacijų klasė
