@@ -1,5 +1,8 @@
 ﻿from collections import deque
 
+#Ilja
+
+
 # Banko operacijų klasė
 class BankTransactions:
     def __init__(self):
