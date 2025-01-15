@@ -1,5 +1,6 @@
 from collections import deque
 # Nikita G
+# Nikata G (changes from WEB)
 <<<<<<< HEAD
 =======negriukas
 /// NIKITA + MARK
