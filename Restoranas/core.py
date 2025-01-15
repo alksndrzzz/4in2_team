@@ -1,4 +1,5 @@
-﻿from collections import deque
+from collections import deque
+# Nikita G
 <<<<<<< HEAD
 =======negriukas
 /// NIKITA + MARK
