@@ -4,6 +4,7 @@ from collections import deque
 <<<<<<< HEAD
 =======negriukas
 /// NIKITA + MARK
+####### Aleksandr Z.
 >>>>>>> 892ac3598de8948df8f4b44b4aecd4c66a93555c
 # Banko operacijų klasė
 ///здесь был Никита Тарасенко -  „Atnaujintas tekstas“ /// KOMENTARAS TEXT DOCUMENT
